@@ -1,0 +1,31 @@
+* {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: lightslategray;
+    text-align: center;
+    box-sizing: content-box;
+}
+h1 {
+    font-size: 60px;
+    color: darkorange;
+}
+p {
+    font-size: 30px;
+    color: lavender;
+}
+ul {
+    list-style: none;
+    font-size: 25px;
+    color: darkblue;
+}
+button {
+    color: black;
+    background-color: mediumseagreen;
+    padding: 10px;
+    margin: 25px;
+    border: black 5px solid; 
+    width: auto;
+    font-size: 25px;
+}
+button:hover {
+    background-color: darkgreen;
+}
